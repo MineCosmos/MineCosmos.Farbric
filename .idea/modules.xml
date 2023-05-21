@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MineCosmos.Farbric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MineCosmos.Farbric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MineCosmos.Farbric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MineCosmos.Farbric.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cosmos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cosmos.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cosmos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cosmos.test.iml" />
     </modules>
