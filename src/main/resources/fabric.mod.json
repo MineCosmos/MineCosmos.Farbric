@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "minecosmos",
+  "version": "${version}",
+  "name": "cosmos",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Administrator/cosmos"
+  },
+  "license": "MIT",
+  "icon": "assets/minecosmos/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.cosmos.minecosmos.Cosmos"
+    ]
+  },
+  "mixins": [
+    "minecosmos.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
